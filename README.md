@@ -192,12 +192,11 @@ baseline YOLO11n   ██████████████████░░�
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbhinavY0318&show_icons=true&hide_border=true&bg_color=0d1117&title_color=36bcf7&icon_color=a371f7&text_color=c9d1d9&ring_color=3b82f6&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavY0318&layout=compact&hide_border=true&bg_color=0d1117&title_color=36bcf7&text_color=c9d1d9" alt="Top languages" />
+<img height="165" src="https://raw.githubusercontent.com/AbhinavY0318/AbhinavY0318/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+<img height="165" src="https://raw.githubusercontent.com/AbhinavY0318/AbhinavY0318/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commits" />
 
 <img src="https://streak-stats.demolab.com?user=AbhinavY0318&hide_border=true&background=0D1117&ring=36BCF7&fire=A371F7&currStreakLabel=36BCF7&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Contribution streak" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavY0318&bg_color=0d1117&color=36bcf7&line=a371f7&point=ffffff&area=true&area_color=3b82f6&hide_border=true&title_color=36bcf7" alt="Contribution activity graph" />
 
 </div>
 
